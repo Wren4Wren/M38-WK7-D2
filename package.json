@@ -1,0 +1,23 @@
+{
+  "name": "tuesday",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wren4Wren/M38-WK7-D2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wren4Wren/M38-WK7-D2/issues"
+  },
+  "homepage": "https://github.com/Wren4Wren/M38-WK7-D2#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "yargs": "^17.5.1"
+  }
+}
